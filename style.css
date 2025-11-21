@@ -9,8 +9,8 @@ body {
 
 header,
 footer {
-    background: #1e88e5;
-    color: white;
+    background: #18700a;
+    color: rgb(88, 141, 191);
     padding: 20px;
     text-align: center;
 }
@@ -19,7 +19,7 @@ main {
     padding: 20px;
     max-width: 900px;
     margin: auto;
-    background: white;
+    background: rgb(182, 144, 165);
 }
 
 h1,
